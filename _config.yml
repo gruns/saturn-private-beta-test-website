@@ -1,1 +1,4 @@
-baseurl: /saturn-private-best-test-website
+title: saturn beta test website
+description: A simple site to test the saturn sw client
+url: https://gruns.github.io
+baseurl: /my-gh-pages-site
